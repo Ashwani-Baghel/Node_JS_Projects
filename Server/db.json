@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Netflix subscription",
+    "amount": 499
+  },
+  {
+    "name": "Prime subscription",
+    "amount": 499
+  },
+  {
+    "name": "Chatgpt subscription",
+    "amount": 499
+  }
+]
